@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KattisApps", "KattisApps\KattisApps.csproj", "{34DA5178-6939-423C-9F4C-57C4CC37FBEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadrantSelection", "KattisApps\QuadrantSelection.csproj", "{34DA5178-6939-423C-9F4C-57C4CC37FBEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
